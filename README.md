@@ -1,4 +1,4 @@
-# Shopify SCV to Heroku Postgre
+# Shopify CSV to Heroku Postgre
 Takes a shopify customer export CSV and creates a Postgre database table on Heroku. Also has some functions to manipluate the data.
 
 Requires ruby 2.1.*
